@@ -1,9 +1,0 @@
-node_modules
-.next
-.env
-/generated/prisma
-*.tsbuildinfo
-next-env.d.ts
-backups/
-shot.cjs
-tour.cjs
